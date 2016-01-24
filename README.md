@@ -1,5 +1,7 @@
 # shoebox
-Critical Tools for Models &amp; Collections
+
+Collections of models for everyone!
+
 
 We believe that -
 
@@ -15,3 +17,7 @@ Collections
 * should be designed for performance as the default, but allow functionality to be added explicitly 
 * should be serializable, convertible, and cloneable
 * may be sortable, indexed, filtered, and paginated
+
+Shoebox
+* should not have opinions on models it contains
+* should explicitly extend and decorate with required functionality, and prefer to do so lazily where possible 
