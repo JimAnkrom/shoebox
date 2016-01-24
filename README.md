@@ -1,2 +1,3 @@
 # shoebox
-Lightweight Model &amp; Collections library 
+Critical Tools for Models &amp; Collections
+
