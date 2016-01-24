@@ -11,7 +11,7 @@ Models
 
 Collections 
 * are by default just groups of models
-* should be loosely coupled to the code that creates them
+* should be loosely coupled to the logic that generates them, whether from local or remote data
 * should be designed for performance as the default, but allow functionality to be added explicitly 
 * should be serializable, convertible, and cloneable
 * may be sortable, indexed, filtered, and paginated
