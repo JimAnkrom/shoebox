@@ -20,7 +20,7 @@ Collections
 
 Relationships
 * Exist between models and other models
-** of which one such relationship is a Collection
+* ...of which one such relationship is a Collection
 * Exist between models and their collections
 * Exist between collections and other collections
 
