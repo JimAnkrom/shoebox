@@ -1,0 +1,18 @@
+{
+  "name": "shoebox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/JimAnkrom/shoebox",
+  "authors": [
+    "Jim Ankrom <arctanone@gmail.com>"
+  ],
+  "description": "Shoebox Collections of Models",
+  "keywords": [
+    "model"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
