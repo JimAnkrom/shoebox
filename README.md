@@ -18,6 +18,12 @@ Collections
 * should be serializable, convertible, and cloneable
 * may be sortable, indexed, filtered, and paginated
 
+Relationships
+* Exist between models and other models
+* ...of which one such relationship is a Collection
+* Exist between models and their collections
+* Exist between collections and other collections
+
 Shoebox
 * should not have opinions on models it contains
 * should explicitly extend and decorate with required functionality, and prefer to do so lazily where possible 
