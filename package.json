@@ -1,6 +1,7 @@
 {
     "name": "shoebox",
     "version": "0.0.1",
+    "description": "Shoebox collections of models",
     "author": "Jim Ankrom <arctanone@gmail.com> (http://www.github.com/JimAnkrom)",
     "repository": {
         "type" : "git",
